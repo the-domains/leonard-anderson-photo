@@ -1,0 +1,28 @@
+name: Leonard Anderson Photo
+favicon: null
+layout_spectrum: 0.4162094590719789
+typography_spectrum: 0.4348956251051277
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8746780585497618
+  lightness: 0.8621263285167515
+  saturation: 0.791538929566741
+  rhythmicContrast: 0.9489087024703622
+purpose: []
